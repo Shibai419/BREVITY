@@ -258,10 +258,10 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/garys-demons">
-                    <img src="https://avatars.githubusercontent.com/u/178498812?v=4" width="100;" alt="garys-demons"/>
+                <a href="https://github.com/alzz-26">
+                    <img src="https://avatars.githubusercontent.com/u/56277823?v=4" width="100;" alt="alzz-26"/>
                     <br />
-                    <sub><b>garys-demons</b></sub>
+                    <sub><b>alzz-26</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -272,33 +272,26 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/alzz-26">
-                    <img src="https://avatars.githubusercontent.com/u/56277823?v=4" width="100;" alt="alzz-26"/>
+                <a href="https://github.com/garys-demons">
+                    <img src="https://avatars.githubusercontent.com/u/178498812?v=4" width="100;" alt="garys-demons"/>
                     <br />
-                    <sub><b>alzz-26</b></sub>
+                    <sub><b>garys-demons</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/suto6">
-                    <img src="https://avatars.githubusercontent.com/u/169282051?v=4" width="100;" alt="suto6"/>
+                <a href="https://github.com/NavyasreeBalu">
+                    <img src="https://avatars.githubusercontent.com/u/182435415?v=4" width="100;" alt="NavyasreeBalu"/>
                     <br />
-                    <sub><b>suto6</b></sub>
+                    <sub><b>NavyasreeBalu</b></sub>
                 </a>
             </td>
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/Vriti62">
-                    <img src="https://avatars.githubusercontent.com/u/136335873?v=4" width="100;" alt="Vriti62"/>
+                <a href="https://github.com/22sakshiagarwal">
+                    <img src="https://avatars.githubusercontent.com/u/150451687?v=4" width="100;" alt="22sakshiagarwal"/>
                     <br />
-                    <sub><b>Vriti62</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Vinuthna-Pesara">
-                    <img src="https://avatars.githubusercontent.com/u/172952195?v=4" width="100;" alt="Vinuthna-Pesara"/>
-                    <br />
-                    <sub><b>Vinuthna-Pesara</b></sub>
+                    <sub><b>22sakshiagarwal</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -309,17 +302,24 @@ We welcome contributions! Please read our [Contributing Guidelines](.github/CONT
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/22sakshiagarwal">
-                    <img src="https://avatars.githubusercontent.com/u/150451687?v=4" width="100;" alt="22sakshiagarwal"/>
+                <a href="https://github.com/Vinuthna-Pesara">
+                    <img src="https://avatars.githubusercontent.com/u/172952195?v=4" width="100;" alt="Vinuthna-Pesara"/>
                     <br />
-                    <sub><b>22sakshiagarwal</b></sub>
+                    <sub><b>Vinuthna-Pesara</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/NavyasreeBalu">
-                    <img src="https://avatars.githubusercontent.com/u/182435415?v=4" width="100;" alt="NavyasreeBalu"/>
+                <a href="https://github.com/Vriti62">
+                    <img src="https://avatars.githubusercontent.com/u/136335873?v=4" width="100;" alt="Vriti62"/>
                     <br />
-                    <sub><b>NavyasreeBalu</b></sub>
+                    <sub><b>Vriti62</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/suto6">
+                    <img src="https://avatars.githubusercontent.com/u/169282051?v=4" width="100;" alt="suto6"/>
+                    <br />
+                    <sub><b>suto6</b></sub>
                 </a>
             </td>
             <td align="center">
